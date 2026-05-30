@@ -6,10 +6,10 @@ Infraestrutura tecnológica ética para comércio local — transparência, auto
 
 | Repositório | Descrição |
 |-------------|-----------|
-| [zairyx-commerce](https://github.com/TiagoIA-UX/zairyx-commerce) | Canal Digital — cardápio, WhatsApp, assinatura previsível |
-| [zairyx-governance](https://github.com/TiagoIA-UX/zairyx-governance) | Charter, ética e padrões do ecossistema |
-
-> Repos ativos em migração de `TiagoIA-UX` para esta organização.
+| [zairyx-commerce](https://github.com/Zairyx-Solucoes-Tecnologicas/zairyx-commerce) | Canal Digital — cardápio, WhatsApp, assinatura previsível |
+| [zairyx-governance](https://github.com/Zairyx-Solucoes-Tecnologicas/zairyx-governance) | Charter, ética e padrões do ecossistema |
+| [zairyx-forgeops](https://github.com/Zairyx-Solucoes-Tecnologicas/zairyx-forgeops) | Observabilidade (stub) |
+| [zairyx-conductor](https://github.com/Zairyx-Solucoes-Tecnologicas/zairyx-conductor) | Orquestração (stub) |
 
 ## Site
 
