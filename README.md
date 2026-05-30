@@ -1,0 +1,2 @@
+# .github
+Zairyx organization profile
