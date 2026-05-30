@@ -14,8 +14,8 @@ Site: https://www.zairyx.com.br (domínio técnico)
 
 | Repositório | Descrição |
 |-------------|-----------|
-| [canal-digital](https://github.com/Zairyx-Solucoes-Tecnologicas/canal-digital) | Produto Canal Digital (Next.js / Stripe) |
-| [governance](https://github.com/Zairyx-Solucoes-Tecnologicas/governance) | Charter, identidade jurídica MEI, padrões |
+| [TiagoIA-UX/canal-digital](https://github.com/TiagoIA-UX/canal-digital) | Produto (privado · deploy Vercel) |
+| [governance](https://github.com/Zairyx-Solucoes-Tecnologicas/governance) | Charter, identidade jurídica MEI |
 | [forgeops](https://github.com/Zairyx-Solucoes-Tecnologicas/forgeops) | Observabilidade |
 | [conductor](https://github.com/Zairyx-Solucoes-Tecnologicas/conductor) | Orquestração |
 | [legal-research](https://github.com/Zairyx-Solucoes-Tecnologicas/legal-research) | Pesquisa jurídica |
